@@ -54,11 +54,6 @@ Para sair, digite: sair
 
 ---
 
-## 📚 Conceitos Aplicados
-
-- Comunicação Cliente-Servidor
-- Protocolo TCP
-- Sockets
 - Endereço IP local (127.0.0.1)
 - Porta de comunicação (5000)
 
