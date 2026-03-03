@@ -1,6 +1,6 @@
 # Projeto Cliente-Servidor com Sockets (Python)
 
-## 📌 Descrição
+## Descrição
 
 Este projeto foi desenvolvido para a disciplina de Infraestrutura de Redes.
 
@@ -10,7 +10,7 @@ O servidor aguarda conexões na porta 5000 e responde mensagens enviadas pelo cl
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python 3
 - Biblioteca socket (nativa do Python)
@@ -19,7 +19,7 @@ O servidor aguarda conexões na porta 5000 e responde mensagens enviadas pelo cl
 
 ---
 
-## ⚙️ Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 1️⃣ Instalar o Python
 Verifique se o Python está instalado: python --version
@@ -44,7 +44,7 @@ Para sair, digite: sair
 
 ---
 
-## 🔄 Funcionamento
+## Funcionamento
 
 1. O servidor inicia e fica aguardando conexões.
 2. O cliente se conecta ao servidor.
@@ -56,12 +56,5 @@ Para sair, digite: sair
 
 - Endereço IP local (127.0.0.1)
 - Porta de comunicação (5000)
-
----
-
-## 👨‍💻 Autor
-
-CR4V3IR0  
-Projeto acadêmico – Infraestrutura de Redes
 
 
